@@ -62,7 +62,7 @@ Very bullish, bullish, choppy, bearish and very bearish market types calls for d
 
 Seeking consistent growth with a small max draw down.
 
-#Quasar Fund
+# Quasar Fund
 
 13.49% 1-year return while testing the new trading bots, ioBots. Real-world production results could have been better without intentional test orders. *
 
