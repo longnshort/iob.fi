@@ -1,7 +1,10 @@
-# Main Street. Wall Street. DeFi.
+block message:
+# Beyond. Yield. Farming.
 
+tag line:
 ## Investing in cryptos, stocks, commodities and indices in one place
 
+section 1:
 ## MAIN STREET RETAIL INVESTORS
 
 # Easy access to superior returns
@@ -18,6 +21,7 @@ Retail fund investors also receive iob.fi governance token staking reward.
 
 We make achieveing a consistent growth eaiser.
 
+section 2
 ## WALL STREET PROFESSIONALS
 
 # Connecting Wall St. to DeFi
@@ -34,21 +38,6 @@ Secure Web3 solutions built in for automated trading platforms.
 
 A bridge between professional Wall Street firms and cryptos.
 
-## DeFi
-
-# The future of finance now
-
-#### Trading anything anywhere in the world
-
-Creating and trading any asset classes globally with a universal market access. Synthetic derivatives break the common barriers of borders and fiat currencies. For instance, now anyone anywhere in the world can trade the gold futures with a Web3 wallet.
-
-#### Permissionless
-
-Trading without borders and gatekeepers. Markets are democratized for anyone to access and are governed by the transparency of smart contracts.
-
-#### Secure
-
-Your asset, your private key, your control.
 
 ## WE'VE GOT YOU COVERED
 
