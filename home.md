@@ -6,7 +6,7 @@
 
 # Easy access to superior returns
 
-#### The first actively managed DeFi fund
+#### The first tokenized, actively managed DeFi fund
 
 Investing for consistent returns in all asset classes from any cornor of the world with a Web3 wallet.
 
